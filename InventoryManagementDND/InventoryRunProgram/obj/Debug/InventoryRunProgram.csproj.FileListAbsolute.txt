@@ -1,0 +1,10 @@
+C:\Users\lasse\source\repos\InventoryManagementDND\InventoryRunProgram\bin\Debug\InventoryRunProgram.exe.config
+C:\Users\lasse\source\repos\InventoryManagementDND\InventoryRunProgram\bin\Debug\InventoryRunProgram.exe
+C:\Users\lasse\source\repos\InventoryManagementDND\InventoryRunProgram\bin\Debug\InventoryRunProgram.pdb
+C:\Users\lasse\source\repos\InventoryManagementDND\InventoryRunProgram\obj\Debug\InventoryRunProgram.csprojAssemblyReference.cache
+C:\Users\lasse\source\repos\InventoryManagementDND\InventoryRunProgram\obj\Debug\InventoryRunProgram.exe
+C:\Users\lasse\source\repos\InventoryManagementDND\InventoryRunProgram\obj\Debug\InventoryRunProgram.pdb
+C:\Users\lasse\source\repos\InventoryManagementDND\InventoryRunProgram\bin\Debug\InventoryManagementDND.dll
+C:\Users\lasse\source\repos\InventoryManagementDND\InventoryRunProgram\bin\Debug\InventoryManagementDND.pdb
+C:\Users\lasse\source\repos\InventoryManagementDND\InventoryRunProgram\obj\Debug\InventoryRunProgram.csproj.CoreCompileInputs.cache
+C:\Users\lasse\source\repos\InventoryManagementDND\InventoryRunProgram\obj\Debug\InventoryRunProgram.csproj.CopyComplete

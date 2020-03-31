@@ -1,0 +1,9 @@
+C:\Users\lasse\source\repos\InventoryManagementDND\InventoryManagementDND\bin\Debug\netstandard2.0\InventoryManagementDND.deps.json
+C:\Users\lasse\source\repos\InventoryManagementDND\InventoryManagementDND\bin\Debug\netstandard2.0\InventoryManagementDND.dll
+C:\Users\lasse\source\repos\InventoryManagementDND\InventoryManagementDND\bin\Debug\netstandard2.0\InventoryManagementDND.pdb
+C:\Users\lasse\source\repos\InventoryManagementDND\InventoryManagementDND\obj\Debug\netstandard2.0\InventoryManagementDND.csprojAssemblyReference.cache
+C:\Users\lasse\source\repos\InventoryManagementDND\InventoryManagementDND\obj\Debug\netstandard2.0\InventoryManagementDND.AssemblyInfoInputs.cache
+C:\Users\lasse\source\repos\InventoryManagementDND\InventoryManagementDND\obj\Debug\netstandard2.0\InventoryManagementDND.AssemblyInfo.cs
+C:\Users\lasse\source\repos\InventoryManagementDND\InventoryManagementDND\obj\Debug\netstandard2.0\InventoryManagementDND.dll
+C:\Users\lasse\source\repos\InventoryManagementDND\InventoryManagementDND\obj\Debug\netstandard2.0\InventoryManagementDND.pdb
+C:\Users\lasse\source\repos\InventoryManagementDND\InventoryManagementDND\obj\Debug\netstandard2.0\InventoryManagementDND.csproj.CoreCompileInputs.cache
