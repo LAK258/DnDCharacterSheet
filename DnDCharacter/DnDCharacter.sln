@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29920.165
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DnDCharacter", "DnDCharacter\DnDCharacter.csproj", "{252028DF-35F3-4AF3-9B24-161D288B47DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DnDCharacter", "DnDCharacter\DnDCharacter.csproj", "{252028DF-35F3-4AF3-9B24-161D288B47DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
