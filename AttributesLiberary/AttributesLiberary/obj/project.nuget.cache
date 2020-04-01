@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dTn1sMUsLfX0kqowmDHlSW3E2jXNn/T6stR3uwDYHyUOWZqUbwMwsbAOe0xMmq4hBtON2O2UXUc4JvqhuQam0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rallo\\source\\repos\\AttributesLiberary\\AttributesLiberary\\AttributesLiberary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rallo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\rallo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\rallo\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

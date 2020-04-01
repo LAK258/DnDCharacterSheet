@@ -1,0 +1,9 @@
+C:\Users\rallo\source\repos\AttributesLiberary\AttributesLiberary\bin\Debug\netstandard2.0\AttributesLiberary.deps.json
+C:\Users\rallo\source\repos\AttributesLiberary\AttributesLiberary\bin\Debug\netstandard2.0\AttributesLiberary.dll
+C:\Users\rallo\source\repos\AttributesLiberary\AttributesLiberary\bin\Debug\netstandard2.0\AttributesLiberary.pdb
+C:\Users\rallo\source\repos\AttributesLiberary\AttributesLiberary\obj\Debug\netstandard2.0\AttributesLiberary.csprojAssemblyReference.cache
+C:\Users\rallo\source\repos\AttributesLiberary\AttributesLiberary\obj\Debug\netstandard2.0\AttributesLiberary.AssemblyInfoInputs.cache
+C:\Users\rallo\source\repos\AttributesLiberary\AttributesLiberary\obj\Debug\netstandard2.0\AttributesLiberary.AssemblyInfo.cs
+C:\Users\rallo\source\repos\AttributesLiberary\AttributesLiberary\obj\Debug\netstandard2.0\AttributesLiberary.dll
+C:\Users\rallo\source\repos\AttributesLiberary\AttributesLiberary\obj\Debug\netstandard2.0\AttributesLiberary.pdb
+C:\Users\rallo\source\repos\AttributesLiberary\AttributesLiberary\obj\Debug\netstandard2.0\AttributesLiberary.csproj.CoreCompileInputs.cache

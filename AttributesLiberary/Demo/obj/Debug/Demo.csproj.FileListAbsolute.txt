@@ -1,0 +1,12 @@
+C:\Users\rallo\source\repos\AttributesLiberary\Demo\bin\Debug\Demo.exe.config
+C:\Users\rallo\source\repos\AttributesLiberary\Demo\bin\Debug\Demo.exe
+C:\Users\rallo\source\repos\AttributesLiberary\Demo\bin\Debug\Demo.pdb
+C:\Users\rallo\source\repos\AttributesLiberary\Demo\bin\Debug\AttributesLiberary.dll
+C:\Users\rallo\source\repos\AttributesLiberary\Demo\bin\Debug\AttributesLiberary.pdb
+C:\Users\rallo\source\repos\AttributesLiberary\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
+C:\Users\rallo\source\repos\AttributesLiberary\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\rallo\source\repos\AttributesLiberary\Demo\obj\Debug\Demo.csproj.CopyComplete
+C:\Users\rallo\source\repos\AttributesLiberary\Demo\obj\Debug\Demo.exe
+C:\Users\rallo\source\repos\AttributesLiberary\Demo\obj\Debug\Demo.pdb
+C:\Users\rallo\source\repos\AttributesLiberary\Demo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rallo\source\repos\AttributesLiberary\Demo\bin\Debug\Newtonsoft.Json.xml
