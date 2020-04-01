@@ -6,5 +6,7 @@ namespace DnDCharacter
 {
     class Jsondatabase
     {
+
+        Console.WriteLine("Hej");
     }
 }
