@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rallo\\Documents\\Gitkraken\\DnDCharacterSheet\\DnDCharacter\\DnDCharacter\\DnDCharacter.csproj": {}
+    "C:\\Users\\lasse\\OneDrive\\Dokumenter\\P4\\DnDCharacterSheet\\DnDCharacter\\DnDCharacter\\DnDCharacter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rallo\\Documents\\Gitkraken\\DnDCharacterSheet\\DnDCharacter\\DnDCharacter\\DnDCharacter.csproj": {
+    "C:\\Users\\lasse\\OneDrive\\Dokumenter\\P4\\DnDCharacterSheet\\DnDCharacter\\DnDCharacter\\DnDCharacter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rallo\\Documents\\Gitkraken\\DnDCharacterSheet\\DnDCharacter\\DnDCharacter\\DnDCharacter.csproj",
+        "projectUniqueName": "C:\\Users\\lasse\\OneDrive\\Dokumenter\\P4\\DnDCharacterSheet\\DnDCharacter\\DnDCharacter\\DnDCharacter.csproj",
         "projectName": "DnDCharacter",
-        "projectPath": "C:\\Users\\rallo\\Documents\\Gitkraken\\DnDCharacterSheet\\DnDCharacter\\DnDCharacter\\DnDCharacter.csproj",
-        "packagesPath": "C:\\Users\\rallo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rallo\\Documents\\Gitkraken\\DnDCharacterSheet\\DnDCharacter\\DnDCharacter\\obj\\",
+        "projectPath": "C:\\Users\\lasse\\OneDrive\\Dokumenter\\P4\\DnDCharacterSheet\\DnDCharacter\\DnDCharacter\\DnDCharacter.csproj",
+        "packagesPath": "C:\\Users\\lasse\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lasse\\OneDrive\\Dokumenter\\P4\\DnDCharacterSheet\\DnDCharacter\\DnDCharacter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rallo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lasse\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
