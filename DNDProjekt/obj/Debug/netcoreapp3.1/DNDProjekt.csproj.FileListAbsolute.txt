@@ -1,0 +1,11 @@
+C:\Users\dkbad\OneDrive\Interaktionsdesign\p4\OOP\DNDProjekt\bin\Debug\netcoreapp3.1\DNDProjekt.exe
+C:\Users\dkbad\OneDrive\Interaktionsdesign\p4\OOP\DNDProjekt\bin\Debug\netcoreapp3.1\DNDProjekt.deps.json
+C:\Users\dkbad\OneDrive\Interaktionsdesign\p4\OOP\DNDProjekt\bin\Debug\netcoreapp3.1\DNDProjekt.runtimeconfig.json
+C:\Users\dkbad\OneDrive\Interaktionsdesign\p4\OOP\DNDProjekt\bin\Debug\netcoreapp3.1\DNDProjekt.runtimeconfig.dev.json
+C:\Users\dkbad\OneDrive\Interaktionsdesign\p4\OOP\DNDProjekt\bin\Debug\netcoreapp3.1\DNDProjekt.dll
+C:\Users\dkbad\OneDrive\Interaktionsdesign\p4\OOP\DNDProjekt\bin\Debug\netcoreapp3.1\DNDProjekt.pdb
+C:\Users\dkbad\OneDrive\Interaktionsdesign\p4\OOP\DNDProjekt\obj\Debug\netcoreapp3.1\DNDProjekt.csprojAssemblyReference.cache
+C:\Users\dkbad\OneDrive\Interaktionsdesign\p4\OOP\DNDProjekt\obj\Debug\netcoreapp3.1\DNDProjekt.AssemblyInfoInputs.cache
+C:\Users\dkbad\OneDrive\Interaktionsdesign\p4\OOP\DNDProjekt\obj\Debug\netcoreapp3.1\DNDProjekt.AssemblyInfo.cs
+C:\Users\dkbad\OneDrive\Interaktionsdesign\p4\OOP\DNDProjekt\obj\Debug\netcoreapp3.1\DNDProjekt.dll
+C:\Users\dkbad\OneDrive\Interaktionsdesign\p4\OOP\DNDProjekt\obj\Debug\netcoreapp3.1\DNDProjekt.pdb
